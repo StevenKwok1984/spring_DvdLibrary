@@ -1,4 +1,4 @@
-package src.main.java.com.sg.dvdlibrary.ui;
+package com.sg.dvdlibrary.ui;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;

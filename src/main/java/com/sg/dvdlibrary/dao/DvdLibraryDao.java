@@ -1,11 +1,14 @@
-package src.main.java.com.sg.dvdlibrary.dao;
+package com.sg.dvdlibrary.dao;
 
-import src.main.java.com.sg.dvdlibrary.dto.Dvd;
+
+
+import com.sg.dvdlibrary.dto.Dvd;
 
 import java.time.LocalDate;
 import java.util.List;
 
 public interface DvdLibraryDao {
+
 
     Dvd addDvd(String title, Dvd dvd) throws DvdLibraryDaoException;
 

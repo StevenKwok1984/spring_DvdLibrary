@@ -1,6 +1,8 @@
-package src.main.java.com.sg.dvdlibrary.ui;
+package com.sg.dvdlibrary.ui;
 
-import src.main.java.com.sg.dvdlibrary.dto.Dvd;
+
+
+import com.sg.dvdlibrary.dto.Dvd;
 
 import java.time.LocalDate;
 import java.util.List;

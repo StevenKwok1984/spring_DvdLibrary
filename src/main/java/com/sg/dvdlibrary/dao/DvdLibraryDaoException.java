@@ -1,4 +1,4 @@
-package src.main.java.com.sg.dvdlibrary.dao;
+package com.sg.dvdlibrary.dao;
 
 public class DvdLibraryDaoException extends Exception{
     public DvdLibraryDaoException(String message) {
